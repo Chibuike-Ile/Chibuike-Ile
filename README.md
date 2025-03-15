@@ -18,13 +18,7 @@ I'm a highly skilled and detail-oriented Data Analyst with a strong passion for 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 </p>
 
-https://www.google.com/search?q=excel+logo&rlz=1C1YTUH_enGB1152GB1152&oq=excle+lo&gs_lcrp=EgZjaHJvbWUqCQgDEAAYChiABDIGCAAQRRg5MhIIARAuGAoYrwEYxwEYsQMYgAQyCQgCEAAYChiABDIJCAMQABgKGIAEMgkIBBAAGAoYgAQyCQgFEAAYChiABDIMCAYQABgKGLEDGIAEMgwIBxAAGAoYiwMYgAQyDAgIEAAYChiLAxiABNIBCDU4OThqMWo3qAIIsAIB8QVNTlYSdoz55Q&sourceid=chrome&ie=UTF-8#vhid=TcTbVmPhylA-IM&vssid=_XdTVZ-qqM8WshbIP65z66A4_62 width="36" height="36"
 
-https://www.google.com/search?q=power+bi+logo&rlz=1C1YTUH_enGB1152GB1152&oq=power+bi+&gs_lcrp=EgZjaHJvbWUqEggBEAAYQxiLAxiABBiKBRj4BTIGCAAQRRg7MhIIARAAGEMYiwMYgAQYigUY-AUyEggCEAAYQxiLAxixAxiABBiKBTISCAMQABhDGIsDGLEDGIAEGIoFMg0IBBAAGIsDGLEDGIAEMgoIBRAAGIsDGIAEMg8IBhAAGEMYiwMYgAQYigUyCggHEAAYiwMYgAQyDwgIEAAYQxiLAxiABBiKBTIKCAkQABiLAxiABNIBCDY5NDhqMWo5qAIAsAIA&sourceid=chrome&ie=UTF-8#vhid=oEWNtOwg_5Q_RM&vssid=_dtbVZ63GH62shbIP4urJ4AM_36 width="36" height="36"
-
-https://www.google.com/search?q=tableau+logo&rlz=1C1YTUH_enGB1152GB1152&oq=Tableau+&gs_lcrp=EgZjaHJvbWUqDAgBEAAYQxiABBiKBTIHCAAQABiPAjIMCAEQABhDGIAEGIoFMg8IAhAAGEMYsQMYgAQYigUyDwgDEAAYQxiLAxiABBiKBTIPCAQQABhDGIsDGIAEGIoFMgwIBRAAGEMYgAQYigUyDAgGEAAYQxiABBiKBTIMCAcQABhDGIAEGIoFMhIICBAuGEMYxwEY0QMYgAQYigUyCggJEAAYiwMYgATSAQkxMTA1OGoxajmoAgCwAgA&sourceid=chrome&ie=UTF-8#vhid=tN42uiGaSCLq3M&vssid=_0dbVZ73_Hu2khbIPjL3d2AE_36 width="36" height="36"
-
-https://www.google.com/search?sca_esv=1635c2d40717c99f&rlz=1C1YTUH_enGB1152GB1152&sxsrf=AHTn8zpcLgcN-x6qZpNBb0rsktGZuVIvmw:1742067476770&q=sql+logo&udm=2&source=univ&fir=rBkg-LJJvBCDuM%252CSNrHGcyIT6MN6M%252C_%253BnWWmKOr6FwPHtM%252C77thFkiCtGZzSM%252C_%253BSey7r0FkL5udvM%252CMKLuipYgPQZ0DM%252C_%253B9EJQrafYVgZUMM%252C3srK174-FZS-tM%252C_%253BzWybBn7ttlKf1M%252C-8r5rC6zlvq7LM%252C_%253B-4eDDATtD7Zy0M%252C5e2kmcbDQYHHNM%252C_%253BzOl0ozwJoHslOM%252C1NPNSIUO0jtPrM%252C_%253B9y6rC4fqmmVAqM%252CTC0w0IwACpH7bM%252C_%253BKlbRHGUkE5CM_M%252CgkXHxa7baVSDDM%252C_%253Bs_hmEjukwJMv3M%252C3srK174-FZS-tM%252C_%253BWgo6YzNMXvQM0M%252CMxnW9recjP7fjM%252C_%253BmROZUSMbIy0BdM%252CyfUHABYyRYacQM%252C_&usg=AI4_-kT9gfQaznaViCSziPdD8-3ZVKXOzQ&sa=X&ved=2ahUKEwjivIKJ64yMAxWyVEEAHfPqD8AQ7Al6BAgLEAY&biw=1280&bih=593&dpr=1.5#vhid=ZlZJWA3VlAO32M&vssid=mosaic  width="36" height="36"
 
 ### Socials
 
