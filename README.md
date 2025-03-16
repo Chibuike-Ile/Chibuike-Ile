@@ -12,7 +12,7 @@ Data Analyst
 As a data analyst, I have a strong desire to turn unprocessed data into useful insights. Excel, Power BI, SQL, Python, and Azure Fundamental are among my areas of expertise. Using data to influence decisions and create engaging narratives
 
 * 🌍  I'm based in United Kingdom
-* 
+ 
 ## 💼 Skills & Tools
 
 Here’s a summary of my skills:
