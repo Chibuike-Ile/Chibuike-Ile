@@ -17,7 +17,7 @@ I'm a highly skilled and detail-oriented Data Analyst with a strong passion for 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 </p>
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Power_BI_logo_black.svg" width="50" height="50"/>
 
 
 ### Socials
