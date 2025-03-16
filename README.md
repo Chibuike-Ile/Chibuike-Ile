@@ -17,7 +17,7 @@ I'm a highly skilled and detail-oriented Data Analyst with a strong passion for 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 </p>
-[![microsoft-excel^2016^excel-logo-new](image.jpg)](https://www.google.com/search?vsrid=COKE9ZbMhdXRWxACGAEiJGUzZjdkZjNkLTdhNDgtNGI5Mi04MzE5LTBiODQ1NjBkNmM2NA&gsessionid=eEL_MF490HTsXRtKyJ5TGlIKJLa3bxbDSjNEkMacOIvnnnX0vUSqAw&lsessionid=LSSST2209Fl_rR17BeURSaI1gnFd6AIrBlkyz9BYoCVNnL2IIHR4LQ&vsdim=600,600&vsint=CAIqDAoCCAcSAggKGAEgATojChYNAAAAPxUAAAA_HQAAgD8lAACAPzABENgEGNgEJQAAgD8&lns_mode=un&source=lns.web.gsbubu&udm=26&lns_vfs=e&qsubts=1742164437294&biw=1280&bih=593&hl=en-GB)
+
 
 
 ### Socials
