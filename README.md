@@ -1,23 +1,67 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chibuike Ile
 ====================================================================================================================================
 
-Data Analyst
+
+# My Profile
+
+## 🚀 About Me
+
+###Data Analyst
 ------------
 
-I'm a highly skilled and detail-oriented Data Analyst with a strong passion for transforming raw data into meaningful insights. With the experience, skills and knowledge I have gained in the Just IT Data Boot camp. I am proficient in using tools such as Excel, Power BI, Tableau, Python, SQL, and Azure Fundamental. I have worked with large datasets to uncover trends, patterns, and actionable insights through data visualization, statistical analysis, and predictive modelling to help businesses make data-driven decisions. Having worked across a variety of dataset, I’m well-versed in applying analytical techniques to solve complex problems, improve efficiency, and optimize processes. Known for good communication, a keen eye for detail and strong problem-solving skills, I’m committed to delivering high-quality work that drives business growth and operational success. When not diving into data, I enjoys reading analytical post of interest on LinkedIn which further fuel my analytical mind-set.
+As a data analyst, I have a strong desire to turn unprocessed data into useful insights. Excel, Power BI, SQL, Python, and Azure Fundamental are among my areas of expertise. Using data to influence decisions and create engaging narratives
 
 * 🌍  I'm based in United Kingdom
-* ✉️  You can contact me at [chibuikeil@gmail.com](mailto:chibuikeil@gmail.com)
-* 🧠  I'm learning Microsoft Azure Fundamentals, SQL, Python, Power BI, Tableau, and Excel.
-* 🤝  I'm open to collaborating on Data Analysis projects and Tech Projects.
-* ⚡  Currently learning how to swim.
+* 
+## 💼 Skills & Tools
 
-### Skills
+Here’s a summary of my skills:
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-</p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Power_BI_logo_black.svg" width="50" height="50"/>
+- **Excel**: Data manipulation, pivot tables, VLOOKUP, INDEX-MATCH, Power Query, Macros, data visualization.
+- **Power BI**: Building dynamic dashboards and reports, data modeling, DAX functions.
+- **SQL**: Working with databases, Query optimization, Joins.
+- **Python**: Pandas, Numpy, Matplotlib, Seaborn.
+
+## 🔧 Tools I Use
+
+![Excel Logo](https://upload.wikimedia.org/wikipedia/commons/a/a6/Excel_2013_logo.svg)  
+- Advanced Excel functions, PivotTables, and chart creation
+
+![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/a/a9/Power_BI_Logo.svg)  
+- Creating interactive and visually appealing reports and dashboards
+
+![SQL Logo](https://upload.wikimedia.org/wikipedia/commons/0/01/SQL_logo.svg)  
+- Writing and optimizing complex SQL queries
+
+![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)  
+- Automating data tasks, statistical analysis, and visualization with Python
+
+## 📈 Projects & Achievements
+
+- **Sales Dashboard (Power BI)**: Designed an interactive sales dashboard to track KPIs such as revenue, customer acquisition, and sales performance across regions.
+- **SQL Query Optimization**: Improved query performance by 40% by optimizing SQL queries used in a large retail database.
+- **Automated Data Processing (Python)**: Built a Python script that automates data cleaning and preprocessing, saving the team 10+ hours a week.
+- **Excel Data Analysis**: Analyzed customer data to identify trends, helping the marketing team optimize ad campaigns.
+
+
+
+## 📚 Learning & Development
+
+* 🧠 I'm constantly picking up new skills, and I recently finished Just IT's Data Technician Boot Camp.
+* 🧠  I'm learnin Microsoft Azure Fundamentals, SQL, Python, Power BI, Tableau, and Excel. To further strengthen my skills.
+
+
+
+## 💬 Let's Connect!
+
+* 🤝 I'm willing to share my experience, work with others on data initiatives, and talk about new opportunities.  Please get in touch!
+*  ⚡  Currently learning how to swim.
+
+- 📧 **Email**: chibuikeile@gmail.com
+- 🌐 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/chibuike-ile-40939726a/)
+- 🐦 **Twitter**: [@YourTwitterHandle](https://twitter.com/@chibuikeile)
+
+
 
 
 ### Socials
