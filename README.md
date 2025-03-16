@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## 🚀 About Me
 
-###Data Analyst
+Data Analyst
 ------------
 
 As a data analyst, I have a strong desire to turn unprocessed data into useful insights. Excel, Power BI, SQL, Python, and Azure Fundamental are among my areas of expertise. Using data to influence decisions and create engaging narratives
