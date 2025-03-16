@@ -59,8 +59,7 @@ Here’s a summary of my skills:
 *  ⚡  Currently learning how to swim.
 
 - 📧 **Email**: chibuikeile@gmail.com
-- 🌐 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/chibuike-ile-40939726a/)
-- 🐦 **Twitter**: [@YourTwitterHandle](https://twitter.com/@chibuikeile)
+
 
 
 
