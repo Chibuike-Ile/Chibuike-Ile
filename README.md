@@ -17,7 +17,7 @@ I'm a highly skilled and detail-oriented Data Analyst with a strong passion for 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 </p>
-![Ait text](https://images.app.goo.gl/ZWJLfy4dMhnuvFpP9)
+
 
 
 ### Socials
