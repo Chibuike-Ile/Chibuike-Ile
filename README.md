@@ -19,6 +19,7 @@ Here’s a summary of my skills:
 
 - **Excel**: Data manipulation, pivot tables, VLOOKUP, INDEX-MATCH, Power Query, Macros, data visualization.
 - **Power BI**: Building dynamic dashboards and reports, data modeling, DAX functions.
+- **Tableau**: Building dynamic dashboards and report, Calculated Fields.
 - **SQL**: Working with databases, Query optimization, Joins.
 - **Python**: Pandas, Numpy, Matplotlib, Seaborn.
 
@@ -40,8 +41,8 @@ Here’s a summary of my skills:
 
 - **Sales Dashboard (Power BI)**: Designed an interactive sales dashboard to track KPIs such as revenue, customer acquisition, and sales performance across regions.
 - **SQL Query Optimization**: Improved query performance by 40% by optimizing SQL queries used in a large retail database.
-- **Automated Data Processing (Python)**: Built a Python script that automates data cleaning and preprocessing, saving the team 10+ hours a week.
-- **Excel Data Analysis**: Analyzed customer data to identify trends, helping the marketing team optimize ad campaigns.
+- **Automated Data Processing (Python)**: 
+- **Excel Data Analysis**: 
 
 
 
