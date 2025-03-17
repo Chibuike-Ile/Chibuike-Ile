@@ -50,7 +50,6 @@ Here’s a summary of my skills:
 
 * 🧠 I'm constantly picking up new skills, and I recently finished Just IT's Data Technician Boot Camp.
 * 🧠  I'm learnin Microsoft Azure Fundamentals, SQL, Python, Power BI, Tableau, and Excel. To further strengthen my skills.
-![Excel Logo](C:\Users\Desktop\Just IT\microsoft-excel^2016^excel-logo-new)
 
 
 ## 💬 Let's Connect!
