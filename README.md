@@ -39,8 +39,8 @@ Here’s a summary of my skills:
 
 ## 📈 Projects & Achievements
 
-- **Sales Dashboard (Power BI)**: Designed an interactive sales dashboard to track KPIs such as revenue, customer acquisition, and sales performance across regions.
-- **SQL Query Optimization**: Improved query performance by 40% by optimizing SQL queries used in a large retail database.
+- **Sales Dashboard (Power BI)**: 
+- **SQL Query Optimization**: 
 - **Automated Data Processing (Python)**: 
 - **Excel Data Analysis**: 
 
