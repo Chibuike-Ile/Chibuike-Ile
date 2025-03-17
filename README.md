@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-As a data analyst, I have a strong desire to turn unprocessed data into useful insights. Excel, Power BI, SQL, Python, and Azure Fundamental are among my areas of expertise. Using data to influence decisions and create engaging narratives
+ I'm a highly skilled and detail-oriented Data Analyst with a strong passion for transforming raw data into meaningful insights. With the experience, skills and knowledge I have gained in the Just IT Data Boot camp. Excel, Power BI, Tableau, SQL, Python, and Azure Fundamental are among my areas of expertise.. I have worked with large datasets to uncover trends, patterns, and actionable insights through data visualization, statistical analysis, and predictive modelling to help businesses make data-driven decisions. Having worked across a variety of dataset, I’m well-versed in applying analytical techniques to solve complex problems, improve efficiency, and optimize processes. Known for good communication, a keen eye for detail and strong problem-solving skills, I’m committed to delivering high-quality work that drives business growth and operational success. When not diving into data, I enjoys reading analytical post of interest on LinkedIn which further fuel my analytical mind-set.
 
 * 🌍  I'm based in United Kingdom
  
@@ -17,11 +17,22 @@ As a data analyst, I have a strong desire to turn unprocessed data into useful i
 
 Here’s a summary of my skills:
 
-- **Excel**: Data manipulation, pivot tables, VLOOKUP, INDEX-MATCH, Power Query, Macros, data visualization.
-- **Power BI**: Building dynamic dashboards and reports, data modeling, DAX functions.
-- **Tableau**: Building dynamic dashboards and report, Calculated Fields.
-- **SQL**: Working with databases, Query optimization, Joins.
-- **Python**: Pandas, Numpy, Matplotlib, Seaborn.
+- ## **Technical Skills**
+ - **Excel**: Data manipulation, pivot tables, VLOOKUP, INDEX-MATCH, Power Query, Macros, data visualization.
+ -  **Power BI**: Building dynamic dashboards and reports, data modeling, DAX functions.
+ -  **Tableau**: Building dynamic dashboards and report, Calculated Fields.
+ -  **SQL**: Working with databases, Query optimization, Joins.
+ -  **Python**: Pandas, Numpy, Matplotlib, Seaborn.
+
+- ## **Soft Skills:**
+
+  - Good Communication
+  - Keen eye for detail
+  - Team work
+  - Strong problem-solving skill
+  - Good time management.
+
+  
 
 ## 🔧 Tools I Use
 
