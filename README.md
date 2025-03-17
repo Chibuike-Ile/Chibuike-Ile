@@ -38,18 +38,20 @@ Here’s a summary of my skills:
 
 ## 🔧 Tools I Use
 
+![e](https://github.com/user-attachments/assets/e2afeae5-7371-477e-b25c-b178f85f74f8) 
 
-![Excel Logo](https://upload.wikimedia.org/wikipedia/commons/a/a6/Excel_2013_logo.svg)  
-- Advanced Excel functions, PivotTables, and chart creation
 
-![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/a/a9/Power_BI_Logo.svg)  
-- Creating interactive and visually appealing reports and dashboards
+![t](https://github.com/user-attachments/assets/d9b65589-efc8-4937-8f1f-6f36eb334d3e)     
 
-![SQL Logo](https://upload.wikimedia.org/wikipedia/commons/0/01/SQL_logo.svg)  
-- Writing and optimizing complex SQL queries
+
+![POWER](https://github.com/user-attachments/assets/bfa1f2f7-897a-4a8c-bafb-ac45431d15b1)   
+
+
+![s](https://github.com/user-attachments/assets/f4fc0e59-2557-4c4a-9a74-a37bef64c54d)   
+
 
 ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)  
-- Automating data tasks, statistical analysis, and visualization with Python
+
 
 ## 📈 Projects & Achievements
 
