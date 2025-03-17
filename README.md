@@ -12,6 +12,8 @@ Data Analyst
  I'm a skilled and detail-oriented Data Analyst with a strong passion for transforming raw data into meaningful insights. With the experience, skills and knowledge I have gained in the Just IT Data Boot camp. Excel, Power BI, Tableau, SQL, Python, and Azure Fundamental are among my areas of expertise.. I have worked with large datasets to uncover trends, patterns, and actionable insights through data visualization, statistical analysis, and predictive modelling to help businesses make data-driven decisions. Having worked across a variety of dataset, I’m well-versed in applying analytical techniques to solve complex problems, improve efficiency, and optimize processes. Known for good communication, a keen eye for detail and strong problem-solving skills, I’m committed to delivering high-quality work that drives business growth and operational success. When not diving into data, I enjoys reading analytical post of interest on LinkedIn which further fuel my analytical mind-set.
 
 * 🌍  I'm based in United Kingdom
+  
+* 📧 **Email**: chibuikeile@gmail.com
  
 ## 💼 Skills & Tools
 
