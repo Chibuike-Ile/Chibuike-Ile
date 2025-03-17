@@ -38,7 +38,8 @@ Here’s a summary of my skills:
 
 ## 🔧 Tools I Use
 
-![Excel Logo](https://upload.wikimedia.org/wikipedia/commons/a/a6/Excel_2013_logo.svg)  
+![Excel Logo](https://upload.wikimedia.org/wikipedia/commo![cv 2](https://github.com/user-attachments/assets/6439a0bd-accb-4f26-a93e-f57dbf9bb13c)
+ns/a/a6/Excel_2013_logo.svg)  
 - Advanced Excel functions, PivotTables, and chart creation
 
 ![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/a/a9/Power_BI_Logo.svg)  
