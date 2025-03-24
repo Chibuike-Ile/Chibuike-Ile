@@ -60,11 +60,11 @@ Here’s a summary of my skills:
 ## 📈 Projects & Achievements
 
 - **Bike-sales Insights (Excel)**: To analyse the performance of a Bike Company. [Click here to access this project](https://github.com/Chibuike-Ile/Excel-Project-Bike-Sales-) 
-- **Bike Sales Analysis & Visualisations (Excel)**: To evaluate the effectiveness of a company that sells bicycles and bicycle accessories.
-- **Health-Survey-project (Tableau)**: Analysis to assist the NHS in making decisions.
-- **Skillable-Lab (Power BI)**: Hands on experience with Power BI. To develop practical skills in Data Visualisation, Report Creation and Data Analysis with Power BI. To be able to create interactive dashboards in Power BI.
-- **World-dataset-project (SQL Query Optimization)**: Demographic Analysis On Scenario Cases 
-- **IMF-Worldbank-UN-Estimation-on-Countries-GDP (Python)**:  A Demographic Analysis on GDP base on IMF_Estimate, WorldBank_Estimate, UN_Estimate across Country/Territory within UN_Region. 
+- **Bike Sales Analysis & Visualisations (Excel)**: To evaluate the effectiveness of a company that sells bicycles and bicycle accessories.[Click here to access this project](https://github.com/Chibuike-Ile/Excel-Project-Sales-Report-)
+- **Health-Survey-project (Tableau)**: Analysis to assist the NHS in making decisions. [Click here to access this project]
+- **Skillable-Lab (Power BI)**: Hands on experience with Power BI. To develop practical skills in Data Visualisation, Report Creation and Data Analysis with Power BI. To be able to create interactive dashboards in Power BI. [Click here to access this project]
+- **World-dataset-project (SQL Query Optimization)**: Demographic Analysis On Scenario Cases. [Click here to access this project] 
+- **IMF-Worldbank-UN-Estimation-on-Countries-GDP (Python)**:  A Demographic Analysis on GDP base on IMF_Estimate, WorldBank_Estimate, UN_Estimate across Country/Territory within UN_Region. [Click here to access this project]
 
 
 
