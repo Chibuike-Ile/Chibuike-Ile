@@ -63,7 +63,7 @@ Here’s a summary of my skills:
 - **Bike Sales Analysis & Visualisations (Excel)**: To evaluate the effectiveness of a company that sells bicycles and bicycle accessories.
 - **Health-Survey-project (Tableau)**: Analysis to assist the NHS in making decisions.
 - **Skillable-Lab (Power BI)**: Hands on experience with Power BI. To develop practical skills in Data Visualisation, Report Creation and Data Analysis with Power BI. To be able to create interactive dashboards in Power BI.
-- **World-dataset-project (SQL Query Optimization)**: 
+- **World-dataset-project (SQL Query Optimization)**: Demographic Analysis On Scenario Cases 
 - **IMF-Worldbank-UN-Estimation-on-Countries-GDP (Python)**: 
 
 
