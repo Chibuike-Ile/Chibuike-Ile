@@ -60,7 +60,7 @@ Here’s a summary of my skills:
 ## 📈 Projects & Achievements
 
 - **Bike-sales Insights (Excel)**: To analyse the performance of a Bike Company.
-- **Sales-Analysis/Report (Excel)**: To evaluate the effectiveness of a company that sells bicycles and bicycle accessories.
+- **Bike Sales Analysis & Visualisations (Excel)**: To evaluate the effectiveness of a company that sells bicycles and bicycle accessories.
 - **Health-Survey-project (Tableau)**:
 - **Skillable-Lab (Power BI)**:
 - **World-dataset-project (SQL Query Optimization)**: 
