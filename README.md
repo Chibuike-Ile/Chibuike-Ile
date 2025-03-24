@@ -61,7 +61,7 @@ Here’s a summary of my skills:
 
 - **Bike-sales Insights (Excel)**: To analyse the performance of a Bike Company.
 - **Bike Sales Analysis & Visualisations (Excel)**: To evaluate the effectiveness of a company that sells bicycles and bicycle accessories.
-- **Health-Survey-project (Tableau)**:
+- **Health-Survey-project (Tableau)**: Analysis to assist the NHS in making decisions.
 - **Skillable-Lab (Power BI)**:
 - **World-dataset-project (SQL Query Optimization)**: 
 - **IMF-Worldbank-UN-Estimation-on-Countries-GDP (Python)**: 
