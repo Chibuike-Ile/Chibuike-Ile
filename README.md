@@ -16,6 +16,8 @@ I'm a skilled and competent Data Analyst with experience in transforming raw dat
 * 🌍  I'm based in United Kingdom
   
 * 📧 **Email**: chibuikeile@gmail.com
+
+* 🚀 **Portfolio:** https://sites.google.com/view/chibuikeile
  
 ## 💼 Skills & Tools
 
@@ -57,10 +59,12 @@ Here’s a summary of my skills:
 
 ## 📈 Projects & Achievements
 
-- **Sales Dashboard (Power BI)**: 
-- **SQL Query Optimization**: 
-- **Automated Data Processing (Python)**: 
-- **Excel Data Analysis**: 
+- **Bike-Sales-Analysis/Report (Excel)**:
+-  **Sales-Analysis/Report (Excel)**:
+-   **Health-Survey-project (Tableau)**:
+- **World-dataset-project (SQL Query Optimization)**: 
+- **IMF-Worldbank-UN-Estimation-on-Countries-GDP (Python)**: 
+
 
 
 
