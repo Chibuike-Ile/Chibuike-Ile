@@ -60,8 +60,9 @@ Here’s a summary of my skills:
 ## 📈 Projects & Achievements
 
 - **Bike-Sales-Analysis/Report (Excel)**:
--  **Sales-Analysis/Report (Excel)**:
--   **Health-Survey-project (Tableau)**:
+- **Sales-Analysis/Report (Excel)**:
+- **Health-Survey-project (Tableau)**:
+- **Skillable-Lab (Power BI)**:
 - **World-dataset-project (SQL Query Optimization)**: 
 - **IMF-Worldbank-UN-Estimation-on-Countries-GDP (Python)**: 
 
