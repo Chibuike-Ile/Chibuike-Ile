@@ -64,7 +64,7 @@ Here’s a summary of my skills:
 - **Health-Survey-project (Tableau)**: Analysis to assist the NHS in making decisions.
 - **Skillable-Lab (Power BI)**: Hands on experience with Power BI. To develop practical skills in Data Visualisation, Report Creation and Data Analysis with Power BI. To be able to create interactive dashboards in Power BI.
 - **World-dataset-project (SQL Query Optimization)**: Demographic Analysis On Scenario Cases 
-- **IMF-Worldbank-UN-Estimation-on-Countries-GDP (Python)**: 
+- **IMF-Worldbank-UN-Estimation-on-Countries-GDP (Python)**:  A Demographic Analysis on GDP base on IMF_Estimate, WorldBank_Estimate, UN_Estimate across Country/Territory within UN_Region. 
 
 
 
