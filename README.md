@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-I'm a competent, dedicated and skilled Data Analyst with experience in transforming raw data into meaningful and actionable insights. I offer both expertise and a calculated approach in tackling data needs. I have gained experience, skills and knowledge in the Just IT Data Boot camp. Excel, Power BI, Tableau, SQL, Python, and Azure Fundamental are my areas of expertise. I have worked with large datasets to uncover trends, patterns, and actionable insights through data visualization, statistical analysis, and predictive modelling. I’m committed to delivering high-quality work that drives business growth and operational success. I'm currently looking for a job role as a Data Analyst or any other related role. 
+I'm a passionate and skilled Data Analyst with experience in transforming raw data into meaningful and actionable insights. I have gained experience, skills and knowledge in the Just IT 12 week’s skill data bootcamp. Excel, Power BI, Tableau, SQL, Python, and Azure Fundamental are my areas of expertise. I have worked with large datasets to uncover trends, patterns, and actionable insights through data visualization, statistical analysis, and predictive modelling. I'm currently looking for a job role as a Data Analyst or any other related role. 
  
 
 
